@@ -7,4 +7,4 @@
 <li>Create and/or edit the order(s) to bake.</li>
 <li>Calculate and check the inventory for any shortfall of ingredients required to fulfil the orders.</li>
 <h2>Contributors</h2>
-<li>The project is developed by team of Foundation students from UTAR at 2021</li>
+<li>The project is developed by team of Foundation students from UTAR at 2021.</li>

@@ -1,0 +1,8 @@
+Condensed milk|g|60
+Egg|g|15
+Salt|g|2.5
+Bread improver|g|2.5
+Instant yeast|g|5
+High protein flour|g|300
+Butter|g|20
+Milk powder|g|5

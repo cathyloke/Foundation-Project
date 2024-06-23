@@ -1,0 +1,12 @@
+	Ingredient(s)        Stocklevel           Demand          Shortfall
+	-------------      --------------       ----------      -------------
+	BREAD IMPROVER         550.00 g           177.50 g             NA
+	BUTTER                1300.00 g          1345.00 g           45.00 g
+	CASTOR SUGAR          1500.00 g           600.00 g             NA
+	CONDENSED MILK        1000.00 g          2460.00 g         1460.00 g
+	EGG                    500.00 g           615.00 g          115.00 g
+	HIGH PROTEIN FLOUR   12000.00 g         15000.00 g         3000.00 g
+	INSTANT YEAST          700.00 g           280.00 g             NA
+	MILK POWDER            605.00 g           505.00 g             NA
+	SALT                   250.00 g           140.00 g             NA
+	

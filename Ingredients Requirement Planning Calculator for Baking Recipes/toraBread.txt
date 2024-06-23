@@ -1,0 +1,7 @@
+High protein flour|g|180.0
+Milk powder|g|20.0
+Bread improver|g|5.0
+Castor sugar|g|40.0
+Salt|g|2.5
+Instant yeast|g|5.0
+Butter|g|35.0
